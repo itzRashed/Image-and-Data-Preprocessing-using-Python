@@ -72,4 +72,3 @@ image-preprocessing/
 
 📜 License
 MIT License – Feel free to use or modify this project for educational and non-commercial purposes.
-MIT License – Feel free to use or modify this project for educational and non-commercial purposes.
